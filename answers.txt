@@ -1,4 +1,5 @@
 
+
 Q1: Why might we consider using Git? 
 
 Answer: Git helps track changes in code, enabling collaboration among multiple
@@ -20,3 +21,8 @@ Answer: Merging preserves branch history by creating a new commit that
 	combines changes, while rebasing rewrites history by moving 
 	commits onto the target branch for a cleaner, linear structure. 
 
+Q4: What are you looking forward to this semester?
+
+Answer: This semester I am looking forward to getting a better understanding 
+	of data science through my CMSC320 class, as well as, spending
+	quality time with my college friends.
