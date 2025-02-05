@@ -13,3 +13,10 @@ Answer: Data science can be applied to various fields, including
 	data science can be used to predict disease outbreaks or 	
 	personalize treatment plans. 
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves branch history by creating a new commit that 
+	combines changes, while rebasing rewrites history by moving 
+	commits onto the target branch for a cleaner, linear structure. 
+
